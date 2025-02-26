@@ -1,0 +1,172 @@
+﻿Episode;Time;Character;roll_type;nat_value
+1;02:53:41;Creature 2;Undead Fortitude;20
+3;00:15:12;Zombie 1;Acrobatics;20
+3;00:30:27;Zombie 2;Slam;20
+5;02:53:21;Gnoll Pack Lord;Attack;20
+6;03:05:36;Gnoll 2;Wisdom;20
+6;03:13:31;Hyena 3;Attack;20
+7;00:47:11;Gnoll 3;Attack;20
+7;02:06:28;Gnoll Pack Lord;Athletics;20
+7;02:13:50;Gnoll 3;Attack;20
+7;03:15:36;Manticore;Attack;20
+12;03:50:54;High-Richter;Wisdom;20
+15;01:10:31;Wall Trap;Attack;20
+15;02:56:55;Gelatinous Cube;Attack;20
+16;00:41:14;Siff Duthar;Wisdom;20
+17;01:33:57;Gunther;Strength;20
+17;02:53:47;Otyugh;Wisdom;20
+18;00:34:42;Hill Giant;Attack;20
+19;01:56:49;Goblin 1;Attack;20
+20;02:05:41;Gator 1;Attack;20
+20;02:28:16;Kiri;Attack;20
+21;02:07:44;Venom Troll;Dexterity;20
+21;03:11:24;Merrow 3;Strength;20
+21;03:24:03;Merrow 1;Attack;20
+22;01:16:13;Merrow 1;Attack;20
+22;01:21:03;Merrow 3;Wisdom;20
+22;01:58:25;Merrow 6;Attack;20
+24;01:38:21;Duncan;Constitution;20
+28;03:05:12;Wohn;Attack;20
+29;02:21:25;Protto;Initiative;20
+34;03:09:43;Water Elemental;Attack;20
+34;03:33:31;Guard 1;Dexterity;20
+35;00:10:42;Bowman;Attack;20
+35;02:17:28;Enforcer;Attack;20
+35;03:14:01;Zhelezo;Insight;20
+36;02:51:06;Harpies;Initiative;20
+36;03:40:32;Gallan;Check;20
+38;01:39:46;Jamedi;Attack;20
+38;03:00:12;Broodguard;Perception;20
+39;00:41:57;Pureblood 3;Attack;20
+39;02:04:57;Avantika;Attack;20
+39;03:23:59;Avantika;Attack;20
+39;03:34:01;Hydra;Attack;20
+39;03:43:23;Hydra;Wisdom;20
+40;01:02:54;Pit Master;Wisdom;20
+42;00:39:34;Sorris;Attack;20
+43;00:18:15;Vera;Dexterity;20
+43;00:42:07;Ipess;Attack;20
+43;01:10:19;Guard;Athletics;20
+43;01:11:12;Ipess;Stealth;20
+44;01:17:02;Merrow 3;Attack;20
+45;04:03:39;Fire Elemental;Attack;20
+45;04:06:17;Fire Elemental;Attack;20
+46;03:03:52;Sea Spawn;Dexterity;20
+46;03:20:25;Sea Spawn;Attack;20
+47;00:37:34;Chuul 4;Attack;20
+47;00:48:50;Chuul 4;Attack;20
+47;00:59:51;Chuul 2;Attack;20
+50;00:56:20;Roper 2;Attack;20
+50;00:59:19;Roper 1;Attack;20
+50;01:25:38;Roper 2;Wisdom;20
+51;00:54:41;Kaulden;Constitution;20
+51;01:34:31;Dragonborn Ranger;Attack;20
+51;01:36:45;Muck Men Ranger;Attack;20
+51;01:43:01;Gnoll;Attack;20
+51;01:44:29;Gnoll;Attack;20
+51;02:05:46;Ranger;Attack;20
+51;03:08:48;Roc;Intelligence;20
+52;02:27:58;Shoosuva 1;Wisdom;20
+52;02:35:20;Shoosuva 2;Attack;20
+53;02:44:26;Dairon;Attack;20
+53;03:18:30;Dairon;Attack;20
+55;03:19:06;Fiendish Minotaur;Attack;20
+59;03:30:35;Babau;Dexterity;20
+60;00:22:12;Dybbuk 1;Attack;20
+60;02:36:56;Dybbuk 1;Attack;20
+66;00:28:02;Roc;Wisdom;20
+66;00:50:40;Bat Roc;Strength;20
+66;00:51:00;Bat Roc;Attack;20
+66;00:57:58;Baby Roc;Attack;20
+66;01:20:01;Orc;Attack;20
+67;02:30:48;Mist Elemental;Attack;20
+67;03:49:16;Zombie;Attack;20
+67;04:02:32;Zombie;Wisdom;20
+68;01:23:39;Roper;;20
+68;03:09:01;Doppelganger Caleb;Attack;20
+69;01:02:36;Obann;Wisdom;20
+69;03:08:43;Laughing Hand;Attack;20
+77;03:27:14;Vence;Wisdom;20
+81;02:10:50;Golem;Attack;20
+82;00:51:40;Clone;Attack;20
+82;02:45:49;Tendril;Dexterity;20
+82;02:50:18;Tendril;Attack;20
+82;03:08:55;Tendril;Dexterity;20
+85;00:40:00;Caedogeist;Attack;20
+86;01:16:13;Demon;Dexterity;20
+86;01:16:34;Demon;Attack;20
+86;01:16:39;Demon;Attack;20
+86;01:34:28;Cultist;Attack;20
+86;04:19:40;Caedogeist;Constitution;20
+87;00:37:39;Obann the Punished;Attack;20
+87;00:40:10;Caedogeist;Attack;20
+87;00:58:30;Obann the Punished;Attack;20
+87;01:16:57;Obann the Punished;Attack;20
+89;03:34:54;Darrow;Attack;20
+89;03:48:31;Kal;Attack;20
+89;03:50:52;Kal;Attack;20
+93;01:25:52;Gorefeather Harpy Matron;Attack;20
+93;01:33:57;Gorefeather Harpy 1;Attack;20
+93;01:33:57;Gorefeather Harpy 1;Attack;20
+94;00:31:38;Husk Zombies ;Initiative;20
+94;00:41:52;Husk Zombies ;Attack;20
+94;01:01:19;Husk Zombies ;Attack;20
+95;03:05:15;Silverfish;Attack;20
+96;00:52:19;Gorgon;Attack;20
+96;00:58:44;Gorgon;Attack;20
+98;03:06:32;Deep Scion Warlock;Attack;20
+98;03:16:04;Sea Spawn;Attack;20
+98;03:48:48;Deep Scion;Wisdom;20
+98;03:49:47;Deep Scion Warlock;Attack;20
+98;03:55:27;Sea Spawn;Attack;20
+98;04:37:50;Deep Scion Warlock;Attack;20
+100;00:23:04;Dragon Turtle;Strength;20
+100;01:02:02;Dragon Turtle;Charisma;20
+102;00:20:39;Will-o’-Wisp 3;Strength;20
+107;02:42:45;T-Rex;Attack;20
+107;02:47:02;T-Rex;Constitution;20
+112;03:59:51;Chuul 2;Constitution;20
+112;04:03:28;Chuul 2;Attack;20
+113;00:46:19;Deep Scion;Attack;20
+113;01:02:52;Toad Demon Creature;Wisdom;20
+113;01:06:42;Chuul 3;Attack;20
+115;02:52:24;Yeti 3;Attack;20
+116;02:01:12;Ice Crystal;Attack;20
+119;01:24:32;Aeorian abomination;Attack;20
+120;00:44:54;Malfunctioning Aeor Centurion;Charisma;20
+120;01:00:10;Malfunctioning Aeor Centurion;Dexterity;20
+121;02:19:14;Tomb Taker 1;Athletics;20
+121;02:19:14;Tomb Taker 2;Athletics;20
+121;02:32:18;Otis;Wisdom;20
+121;02:40:12;Zoran;Athletics;20
+123;01:07:37;Cree or Lucien;Wisdom;20
+123;01:16:40;Lucien;Attack;20
+123;01:27:56;Gelidon;Attack;20
+123;04:00:25;Zoran;Attack;20
+123;04:21:22;Otis;Attack;20
+123;05:06:32;Otis;Dexterity;20
+127;02:37:05;Hallway Guard 5;Charisma;20
+128;00:16:20;Trent;Intelligence;20
+128;00:18:05;Trent;Intelligence;20
+129;01:32:18;Guardian of the Sanctum;Wisdom;20
+129;01:35:03;Guardian of the Sanctum 2;Attack;20
+129;01:48:25;Marion;Dexterity;20
+129;02:02:21;Guardian of the Sanctum 2;Wisdom;20
+131;00:18:49;Lightning Spirit (Liam);Attack;20
+131;00:55:15;Lightning Spirit (Travis);Dexterity;20
+133;00:18:55;Frost Salamander 1;Initiative;20
+134;03:05:40;Reverser;Charisma;20
+134;03:13:42;Absorber 2;Attack;20
+134;03:36:49;Absorber 2;Attack;20
+134;03:29:04;Nullifier;Attack;20
+138;01:43:07;Essek;d20;20
+139;01:07:48;Lucien;Initiative;20
+139;03:48:04;Lucien;Constitution;20
+140;01:34:21;Eye of Fastidan;Charisma;20
+140;02:04:37;Lucien;Attack;20
+140;02:20:26;Lucien;Attack;20
+140;02:20:50;Lucien;Attack;20
+141;02:47:21;Trent;Dexterity;20
+141;03:06:32;Trent;Attack;20
+141;04:07:16;Trent;Wisdom;20
+141;04:07:33;Trent;Wisdom;20
