@@ -1,0 +1,13 @@
+﻿Total;Column1;_1;_2;_3;_4;_5;_6;_7;_8;_9;_10;_11;_12;_13;_14;_15;_16;_17;_18;_19
+Ep Total : 141;Jester;Frumpkin;Caleb;Fjord;Beauregard;Caduceus;Mollymauk;Nott/Veth;Yasha;;Guests;NPCs;No damage : 28;Damage type;;Friendly Fire = 1253;;Dealt/Taken;;
+Total = 20698;2421;32;2686;3394;3270;2026;410;2055;2783;;290;1,331;NPCs Took Damage = 26;Lightning = 2415;11,67;Dealt = 1226;Taken = 1253;;% Dealt;% Taken
+Average = 147;17;0;19;24;23;14;16;15;20;;2;9;Guest Took Damage = 5;Bleeding = 1237;5,98;Jester = 39;Jester = 213;18.31%;3.18%;17.00%
+Average = 183;21;0;24;30;29;18;19;18;25;;58;51;;Poison = 2187;10,57;Frumpkin = 2;Frumpkin = 3;66.67%;0.16%;0.24%
+% of damage received;11.70%;0.15%;12.98%;16.40%;15.80%;9.79%;1.98%;9.93%;13.45%;;1.40%;6.43%;;Fire = 3718;17,96;Caleb = 263;Caleb = 174;151.15%;21.45%;13.89%
+Max/ep =246;124;11;137;139;246;174;38;134;165;;;;;Radiant = 1337;6,46;Fjord = 182;Fjord = 180;101.11%;14.85%;14.37%
+Largest Hit =93;59;11;72;92;69;53;26;93;72;;;;;Necrotic =2611;12,61;Beauregard = 135;Beauregard = 193;69.95%;11.01%;15.40%
+;;;;;;;;;;;;;;Psychic =1951;9,43;Mollymauk = 121;Mollymauk = 119;101.68%;9.87%;9.50%
+;;;;;;;;;;;;;;Cold =2819;13,62;Nott/Veth = 136;Nott/Veth = 58;234.48%;11.09%;4.63%
+;;;;;;;;;;;;;;Acid =2019;9,75;Yasha = 257;Yasha = 197;130.46%;20.96%;15.72%
+;;;;;;;;;;;;;159.76%;Physical =11370;54,93;Caduceus = 91;Caduceus = 116;78.45%;7.42%;9.26%
+;;;;;;;;;;;;;-12370;Thunder = 1404;6,78;;;;;
